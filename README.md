@@ -61,7 +61,7 @@ Run `npm outdated` to check for updates. Be cautious with major versions due to 
 5. Open a Pull Request.
 
 ## License
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License. 
 
 ## Contact
 - GitHub: https://github.com/BroccoliFin
