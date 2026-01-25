@@ -24,6 +24,7 @@ Built on top of the [Solana dApp Scaffold](https://github.com/solana-labs/dapp-s
    ```bash
    git clone https://github.com/BroccoliFin/BrocoTokenCreator.git
    ```
+   ```
    cd BrocoTokenCreator
 
 2. Install dependencies:
