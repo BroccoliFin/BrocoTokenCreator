@@ -53,7 +53,11 @@ Key libraries (from `package.json`):
 - Full list: See `package.json`.
 
 ## Updating Dependencies
-Run `npm outdated` to check for updates. Be cautious with major versions due to potential breaking changes (e.g., update Next.js to 14+ requires React 18+).
+Run 
+```
+npm outdated
+```
+ to check for updates. Be cautious with major versions due to potential breaking changes (e.g., update Next.js to 14+ requires React 18+).
 
 ## Contributing
 1. Fork the repo.
