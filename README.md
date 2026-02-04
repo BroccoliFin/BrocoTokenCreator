@@ -1,4 +1,4 @@
-# Solana Token Creator
+# BrocoTokenCreator
 
 This repository provides a simple web application for experimenting with token creation on the Solana blockchain. It aims to make the process intuitive and accessible, especially for users familiar with EVM-based chains but new to Solana's nuances.
 
