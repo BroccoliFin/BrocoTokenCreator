@@ -16,12 +16,14 @@
 
 
 <p align="center"><strong>Create and mint SPL token on Solana using Next.js, Phantom Wallet & Metaplex.  
-Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong>
+Supports IPFS (Pinata).</strong>
 </p>
 
 
 
-# BrocoTokenCreator
+
+
+
 
 This repository provides a simple web application for experimenting with token creation on the Solana blockchain. It aims to make the process intuitive and accessible, especially for users familiar with EVM-based chains but new to Solana's nuances.
 
